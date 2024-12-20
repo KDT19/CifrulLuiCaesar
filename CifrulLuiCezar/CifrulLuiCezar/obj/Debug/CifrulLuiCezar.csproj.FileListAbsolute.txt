@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulLuiCezar\CifrulLuiCezar\bin\Debug\CifrulLuiCezar.exe.config
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulLuiCezar\CifrulLuiCezar\bin\Debug\CifrulLuiCezar.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulLuiCezar\CifrulLuiCezar\bin\Debug\CifrulLuiCezar.pdb
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulLuiCezar\CifrulLuiCezar\obj\Debug\CifrulLuiCezar.pdb
